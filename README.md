@@ -1,4 +1,3 @@
-# Video Background Modelling
 
 # Modelling the changes in videos using multiple techniques:
 
